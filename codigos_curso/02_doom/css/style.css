@@ -1,0 +1,13 @@
+h2.mt-4{
+    text-align: right;
+} /* en los h2 cuya clase es mt-4. SI se pone espacio sería aquellas etiquetas que dentro de h2 tengan dicha clase*/
+select[name="seleccion"] option[value="1"]{
+    background-color: blueviolet;
+}
+
+.con-experiencia{
+    color: aquamarine
+}
+.sin-experiencia{
+    color: red
+}
